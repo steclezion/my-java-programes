@@ -1,6 +1,6 @@
 import java.util.Random; 
 import java.util.Scanner;
-
+ 
 /** * Java program to find and print largest prime factor of an integer number. 
 for * example number 6 has two prime factors 2 and 3, but 3 is the largest prime * 
 factor of 6. input 15 output 5 * * @author Javin Paul */ 

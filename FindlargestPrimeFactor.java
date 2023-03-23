@@ -28,5 +28,5 @@ public class LargetPrimeFactor{ public static void main(String args[])
  return i; 
  
  } 
- 
+ ኣለካ ዶ ኣታዮ
  }
